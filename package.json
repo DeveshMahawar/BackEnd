@@ -7,5 +7,9 @@
   },
   "author": "Devesh",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.1"
+  }
 }
